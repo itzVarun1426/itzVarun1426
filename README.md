@@ -1,3 +1,4 @@
+![logo](https://github.com/itzVarun1426/itzVarun1426/blob/main/github%20readme%20banner.png)
 <h1 align="center">Hi 👋, I'm Varun Nagote</h1>
 <h3 align="center">CS Student | Passionate about Full-Stack Web Development, AI & Machine Learning | Currently Building Web Projects</h3>
 <img align="right" alt="coding image" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJzbG03MmZtb2RwZjhvanA2cm85c2g5YjFxMzUwN3pnNmI1Z2JycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="400">
