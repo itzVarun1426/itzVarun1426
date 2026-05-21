@@ -7,7 +7,7 @@
 
 - 🌱 Currently learning **System Design, Advanced DSA, Cybersecurity, and AI Engineering**
 
-- 👨‍💻 Working with **Gen AI, Cloud Technologies, React, Docker, Appwrite, and Automation Tools**
+- 👨‍💻 Working with **Gen AI, Cloud Technologies, React, Docker, and Automation Tools**
 
 - 🤖 Exploring **LLMs, AI Automation, Scalable Architectures, and Modern Tech Ecosystems**
 
