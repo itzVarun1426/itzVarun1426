@@ -1,18 +1,21 @@
 <div align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fjalla+One&size=44&duration=3985&pause=900&color=0426F7&center=true&vCenter=true&width=835&height=70&lines=Yoooo!!!%F0%9F%96%96+Varun+here%F0%9F%98%81;Full+Stack+Developer+%E2%9A%A1;GenAi+%2B+RAG+Pipelines+%F0%9F%9B%A0%EF%B8%8F;DSA+%2B+Competitive+Programming+%F0%9F%92%A1" alt="Typing SVG" /></a>
 </div>
-<h1 align="center">Hi 👋, I'm Varun Nagote</h1>
 <h3 align="center">CS Student | Passionate about Full-Stack Web Development, AI & Machine Learning | Currently Building Web Projects</h3>
 <img align="right" alt="coding image" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJzbG03MmZtb2RwZjhvanA2cm85c2g5YjFxMzUwN3pnNmI1Z2JycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="400">
+- 🔭 Currently building **Full Stack, Cloud, and AI-powered Applications**
 
-- 🔭 I’m currently working on **Personal Portfolio**
+- 🌱 Currently learning **System Design, Advanced DSA, Cybersecurity, and AI Engineering**
 
-- 🌱 I’m currently learning **DSA in C++ , React Js , Express Js , Database Management**
+- 👨‍💻 Working with **Gen AI, Cloud Technologies, React, Docker, Appwrite, and Automation Tools**
 
-- 💬 Ask me about **C++ , Python , Frontend technologies**
+- 🤖 Exploring **LLMs, AI Automation, Scalable Architectures, and Modern Tech Ecosystems**
 
-- 📫 How to reach me **varunnagote1426@gmail.com**
+- 💬 Ask me about **C++, Gen AI, Cloud, DevOps, and Competitive Programming**
 
+- ⚡ Fun fact: **I enjoy building projects that combine AI, automation, and real-world problem solving**
+
+- 📫 Reach me at **varunnagote1426@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/varun-nagote-15847a226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun nagote" height="30" width="40" /></a>
