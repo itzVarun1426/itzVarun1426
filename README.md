@@ -1,4 +1,4 @@
-![logo](https://github.com/itzVarun1426/itzVarun1426/blob/main/github%20readme%20banner.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fjalla+One&pause=1000&color=F70000&center=true&multiline=true&width=435&lines=Hi%2C+I%E2%80%99m+Varun+%E2%80%94+Code+%E2%80%A2+Build+%E2%80%A2+Repeat+%F0%9F%94%A5;Full+Stack+Developer+%E2%9A%A1;GenAi+%2B+RAG+Pipelines+%F0%9F%9B%A0%EF%B8%8F;DSA+%2B+Competitive+Programming+%F0%9F%92%A1)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Varun Nagote</h1>
 <h3 align="center">CS Student | Passionate about Full-Stack Web Development, AI & Machine Learning | Currently Building Web Projects</h3>
 <img align="right" alt="coding image" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJzbG03MmZtb2RwZjhvanA2cm85c2g5YjFxMzUwN3pnNmI1Z2JycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="400">
