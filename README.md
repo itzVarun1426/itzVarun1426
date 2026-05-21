@@ -1,5 +1,6 @@
 <div align = "center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fjalla+One&size=44&duration=3985&pause=900&color=0426F7&center=true&vCenter=true&width=835&height=70&lines=Yoooo!!!%F0%9F%96%96+Varun+here%F0%9F%98%81;Full+Stack+Developer+%E2%9A%A1;GenAi+%2B+RAG+Pipelines+%F0%9F%9B%A0%EF%B8%8F;DSA+%2B+Competitive+Programming+%F0%9F%92%A1)](https://git.io/typing-svg)</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fjalla+One&size=44&duration=3985&pause=900&color=0426F7&center=true&vCenter=true&width=835&height=70&lines=Yoooo!!!%F0%9F%96%96+Varun+here%F0%9F%98%81;Full+Stack+Developer+%E2%9A%A1;GenAi+%2B+RAG+Pipelines+%F0%9F%9B%A0%EF%B8%8F;DSA+%2B+Competitive+Programming+%F0%9F%92%A1" alt="Typing SVG" /></a>
+</div>
 <h1 align="center">Hi 👋, I'm Varun Nagote</h1>
 <h3 align="center">CS Student | Passionate about Full-Stack Web Development, AI & Machine Learning | Currently Building Web Projects</h3>
 <img align="right" alt="coding image" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJzbG03MmZtb2RwZjhvanA2cm85c2g5YjFxMzUwN3pnNmI1Z2JycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="400">
